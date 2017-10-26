@@ -1,0 +1,33 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Agola Color Schemes",
+		"auto-save",
+		"AutoFileName",
+		"Better Bookmarks",
+		"Bootstrap 3 Autocomplete",
+		"Bootstrap 3 Snippets",
+		"BracketHighlighter",
+		"ColorPicker",
+		"Emmet",
+		"EmmetOneLine",
+		"GitSavvy",
+		"HTML-CSS-JS Prettify",
+		"Icon Fonts",
+		"Nettuts+ Fetch",
+		"Open Search in a New Tab",
+		"Package Control",
+		"ProjectManager",
+		"Sass",
+		"Seti_UI",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"Terminal"
+	]
+}

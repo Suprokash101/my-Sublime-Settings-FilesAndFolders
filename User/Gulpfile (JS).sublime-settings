@@ -1,0 +1,4 @@
+// These settings override both User and Default settings for the Gulpfile (JS) syntax
+{
+    //"color_scheme": "Packages/Agola Color Schemes/AgolaExpertClass.tmTheme"
+}

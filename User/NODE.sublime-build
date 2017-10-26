@@ -1,0 +1,4 @@
+{
+    "cmd": ["C:\\Program Files\\nodejs\\node", "$file"],
+    "selector": "source.js"
+}

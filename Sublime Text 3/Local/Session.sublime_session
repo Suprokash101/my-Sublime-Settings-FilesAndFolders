@@ -1,0 +1,539 @@
+{
+	"folder_history":
+	[
+		"/F/temp/PROTOTYPE-TEST",
+		"/F/temp/SASS-LEARNING"
+	],
+	"last_version": 3126,
+	"last_window_id": 8,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 427.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 425.0,
+				"last_filter": "inst",
+				"selected_items":
+				[
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"snippet:bs3-start",
+						"Snippet: bs3-template.starter"
+					],
+					[
+						"snippet:bs3-star",
+						"Snippet: bs3-template.starter"
+					],
+					[
+						"inspa",
+						"Package Control: Install Package"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					]
+				],
+				"width": 615.0
+			},
+			"console":
+			{
+				"height": 216.0,
+				"history":
+				[
+					"import os; print os.getenv('PATH')"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/F/2...j_b_l_project_ZEN_PUPPY/ZEN_DOG_1st_step/ZEN_DOG_0th_step/COSMIC_TRAVEL/@0.cs1/LEARNING_WORKSPACE/learn_0/1.working-directory/video-courses/README.txt",
+				"/F/2...j_b_l_project_ZEN_PUPPY/ZEN_DOG_1st_step/ZEN_DOG_0th_step/COSMIC_TRAVEL/@0.cs1/LEARNING_WORKSPACE/learn_0/CLOUD-UPLOAD-LIST.txt",
+				"/F/2...j_b_l_project_ZEN_PUPPY/ZEN_DOG_1st_step/ZEN_DOG_0th_step/COSMIC_TRAVEL/@0.cs1/LEARNING_WORKSPACE/learn_0/notes&errata&others/lynda.com_Course_List.txt",
+				"/F/2...j_b_l_project_ZEN_PUPPY/ZEN_DOG_1st_step/ZEN_DOG_0th_step/COSMIC_TRAVEL/@0.cs1/LEARNING_WORKSPACE/learn_0/notes&errata&others/pcdownload.in-courses.txt",
+				"/F/2...j_b_l_project_ZEN_PUPPY/ZEN_DOG_1st_step/sourceCode/batch/necessary_batch_files/todoList.txt",
+				"/F/2...j_b_l_project_ZEN_PUPPY/ZEN_DOG_1st_step/ZEN_DOG_0th_step/COSMIC_TRAVEL/@0.cs1/LEARNING_WORKSPACE/learn_0/routine.txt",
+				"/F/2...j_b_l_project_ZEN_PUPPY/ZEN_DOG_1st_step/ZEN_DOG_0th_step/COSMIC_TRAVEL/@0.cs1/nextInLine/GULP/template-in-the-making/app/index.html",
+				"/E/2...MY_ALL_VIDEO_TUTORIALS/...webDesign/Bootstrap3EssentialTraining_LYNDA.COM/readMe.txt",
+				"/F/html-css-starter-project-with-BrowserSync-liveReload-master/app/index.html",
+				"/F/html-css-starter-project-with-BrowserSync-liveReload-master/app/css/main.css",
+				"/F/2...j_b_l_project_ZEN_PUPPY/ZEN_DOG_1st_step/ZEN_DOG_0th_step/COSMIC_TRAVEL/@0.cs1/nextInLine/GULP/html-css-starter-project-with-BrowserSync-liveReload-master/readme.md",
+				"/F/2...j_b_l_project_ZEN_PUPPY/ZEN_DOG_1st_step/ZEN_DOG_0th_step/COSMIC_TRAVEL/@0.cs1/nextInLine/GULP/html-css-starter-project-with-BrowserSync-liveReload-master/app.js",
+				"/F/2...j_b_l_project_ZEN_PUPPY/ZEN_DOG_1st_step/ZEN_DOG_0th_step/COSMIC_TRAVEL/@0.cs1/nextInLine/GULP/html-css-starter-project-with-BrowserSync-liveReload-master/package.json",
+				"/F/jquery-1.12.4.min.js",
+				"/F/bootstrap-3.3.7-dist/js/npm.js",
+				"/F/materialPaper-theme.css",
+				"/E/2...MY_ALL_VIDEO_TUTORIALS/...webDesign/Bootstrap3AddingInteractivityToYourSite_LYNDA.COM/readMe.txt",
+				"/E/2...MY_ALL_VIDEO_TUTORIALS/...webDesign/creatingAresponsiveWebDesign_LYNDA/readMe.txt",
+				"/E/2...MY_ALL_VIDEO_TUTORIALS/...webDesign/bootstrap3_PLURAL-SIGHT/readMe.txt",
+				"/F/2...j_b_l_project_ZEN_PUPPY/ZEN_DOG_1st_step/ZEN_DOG_0th_step/COSMIC_TRAVEL/@0.cs1/1...SPELLBIT-LTD/v.v.g_niceBootstart3Theme/Theme/index.html",
+				"/F/2...j_b_l_project_ZEN_PUPPY/ZEN_DOG_1st_step/ZEN_DOG_0th_step/COSMIC_TRAVEL/@0.cs1/1...SPELLBIT-LTD/v.v.g_niceBootstart3Theme/Theme/assets/js/jquery.min.js",
+				"/F/2...j_b_l_project_ZEN_PUPPY/ZEN_DOG_1st_step/ZEN_DOG_0th_step/COSMIC_TRAVEL/@0.cs1/1...SPELLBIT-LTD/v.v.g_niceBootstart3Theme/Theme/assets/js/jquery.unveilEffects.js",
+				"/F/dashgumfree_v2/readMe.txt",
+				"/F/lsumofree/readMe.txt",
+				"/F/lsumofree/Thanks.txt",
+				"/F/lsumofree/Theme/assets/css/bootstrap.css",
+				"/F/lsumofree/Theme/assets/css/style.css",
+				"/F/lsumofree/Theme/assets/css/custom-animations.css",
+				"/F/2...j_b_l_project_ZEN_PUPPY/ZEN_DOG_1st_step/sourceCode/batch/necessary_batch_files/aweSomeCSS.bat",
+				"/F/WEB-DESIGN-TOOLS/triadic_colors_LYNDA/triad_demo.html",
+				"/F/WEB-DESIGN-TOOLS/split_complementary_colors_LYNDA/split_demo.html",
+				"/F/WEB-DESIGN-TOOLS/rgba_color_picker_LYNDA/rgba_demo.html",
+				"/F/WEB-DESIGN-TOOLS/rgb_color_picker_LYNDA/rgb_demo.html",
+				"/F/WEB-DESIGN-TOOLS/monochromatic_colors_LYNDA/mono_demo.html",
+				"/F/WEB-DESIGN-TOOLS/hsla_color_picker_LYNDA/hsla_demo.html",
+				"/F/WEB-DESIGN-TOOLS/hsl_color_picker_LYNDA/hsl_demo.html",
+				"/F/WEB-DESIGN-TOOLS/complementary_colors_LYNDA/comp_demo.html",
+				"/F/WEB-DESIGN-TOOLS/analogous_colors_LYNDA/ac_demo.html",
+				"/E/2...MY_ALL_VIDEO_TUTORIALS/...webDesign/CSS_EnhancingWebsiteGraphics_LYNDA/Ex_Files_CSS_Website_GFX/Exercise Files/Ch1/01_01/explore/triad_demo.html",
+				"/E/2...MY_ALL_VIDEO_TUTORIALS/...webDesign/CSS_EnhancingWebsiteGraphics_LYNDA/Ex_Files_CSS_Website_GFX/Exercise Files/Ch1/01_01/explore/rgba_demo.html",
+				"/F/gulp-is-good/app/css/main.css.map",
+				"/F/gulp-is-good/app/css/main.css",
+				"/F/gulp-is-good/app/index.html",
+				"/F/gulp-is-good/app/sass/main.scss",
+				"/F/learn-sass-begin/.gitignore",
+				"/F/learn-sass-begin/app/sass/main.scss",
+				"/F/learn-sass-begin/app/index.html",
+				"/E/2...MY_ALL_VIDEO_TUTORIALS/...webDesign/14-daysToLearnSASS_TUTS-PLUS/readMe.txt",
+				"/E/2...MY_ALL_VIDEO_TUTORIALS/...javascriptJQUERY/BeginningProgrammingWithJavaScript_OREILLY/readMe.txt",
+				"/E/2...MY_ALL_VIDEO_TUTORIALS/...javascriptJQUERY/BeginningProgrammingWithJavaScript_OREILLY/BeginningJavaScript-master/01-variables/readme.md",
+				"/E/2...MY_ALL_VIDEO_TUTORIALS/...javascriptJQUERY/BeginningProgrammingWithJavaScript_OREILLY/BeginningJavaScript-master/00-meta/readme.md",
+				"/E/2...MY_ALL_VIDEO_TUTORIALS/...javascriptJQUERY/BeginningProgrammingWithJavaScript_OREILLY/BeginningJavaScript-master/02-functions/tests.js",
+				"/E/2...MY_ALL_VIDEO_TUTORIALS/...javascriptJQUERY/BeginningProgrammingWithJavaScript_OREILLY/BeginningJavaScript-master/02-functions/practice.js",
+				"/E/2...MY_ALL_VIDEO_TUTORIALS/...javascriptJQUERY/BeginningProgrammingWithJavaScript_OREILLY/BeginningJavaScript-master/01-variables/notes.js",
+				"/F/2...j_b_l_project_ZEN_PUPPY/ZEN_DOG_1st_step/sourceCode/batch/necessary_batch_files/hardCoreStudy.bat",
+				"/F/temp/PROTOTYPE-TEST/index.html",
+				"/F/temp/PROTOTYPE-TEST/PROTOTYPE-TEST.sublime-project",
+				"/C/Users/SUPROKASH_TPS/AppData/Roaming/Sublime Text 3/Packages/User/Projects/recent.json",
+				"/C/Users/SUPROKASH_TPS/AppData/Roaming/Sublime Text 3/Packages/User/Projects/library.json",
+				"/F/temp/SASS-LEARNING/SASS-LEARNING.sublime-project",
+				"/D/1...TOTAL SOFTWARE COLLECTION/00_NEW SET UP_DONE BY ME/SUBLIME_TEXT_3_EDITOR/my_settings/all_packages.txt",
+				"/F/temp/SASS-LEARNING/app/index.html",
+				"/F/temp/SASS-LEARNING/app/sass/main.scss",
+				"/C/Users/SUPROKASH_TPS/AppData/Roaming/Sublime Text 3/Local/License.sublime_license"
+			],
+			"find":
+			{
+				"height": 43.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"sup",
+					"compass",
+					"bootstrap 3",
+					"\n<$$$>",
+					"<$$$>",
+					"<$",
+					"! ",
+					"<!",
+					"cross",
+					"img",
+					"href",
+					"\n<$$$>",
+					"green",
+					"red",
+					"yellow",
+					"green",
+					"compass",
+					"\n<$$$>",
+					"PackageSync",
+					"blue",
+					"green"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 37.0
+			},
+			"input":
+			{
+				"height": 38.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 70.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"p",
+						"F:\\2...j_b_l_project_ZEN_PUPPY\\ZEN_DOG_1st_step\\ZEN_DOG_0th_step\\COSMIC_TRAVEL\\@0.cs1\\LEARNING_WORKSPACE\\learn_0\\notes&errata&others\\pcdownload.in-courses.txt"
+					],
+					[
+						"l",
+						"F:\\2...j_b_l_project_ZEN_PUPPY\\ZEN_DOG_1st_step\\ZEN_DOG_0th_step\\COSMIC_TRAVEL\\@0.cs1\\LEARNING_WORKSPACE\\learn_0\\notes&errata&others\\lynda.com_Course_List.txt"
+					],
+					[
+						"ly",
+						"F:\\2...j_b_l_project_ZEN_PUPPY\\ZEN_DOG_1st_step\\ZEN_DOG_0th_step\\COSMIC_TRAVEL\\@0.cs1\\LEARNING_WORKSPACE\\learn_0\\notes&errata&others\\lynda.com_Course_List.txt"
+					],
+					[
+						"t",
+						"F:\\2...j_b_l_project_ZEN_PUPPY\\ZEN_DOG_1st_step\\sourceCode\\batch\\necessary_batch_files\\todoList.txt"
+					],
+					[
+						"pc",
+						"F:\\2...j_b_l_project_ZEN_PUPPY\\ZEN_DOG_1st_step\\ZEN_DOG_0th_step\\COSMIC_TRAVEL\\@0.cs1\\LEARNING_WORKSPACE\\learn_0\\notes&errata&others\\pcdownload.in-courses.txt"
+					],
+					[
+						"i",
+						"index.html"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 625.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 475.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 377.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 799.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 425.0,
+				"last_filter": "lis",
+				"selected_items":
+				[
+					[
+						"lis",
+						"Package Control: List Packages"
+					],
+					[
+						"gs",
+						"git: status"
+					],
+					[
+						"gl",
+						"git: log"
+					],
+					[
+						"gd",
+						"git: diff"
+					],
+					[
+						"com",
+						"git: commit"
+					],
+					[
+						"add",
+						"git: add (edit)"
+					],
+					[
+						"gitstatu",
+						"git: status"
+					],
+					[
+						"git add",
+						"git: add (edit)"
+					],
+					[
+						"gis",
+						"git: status"
+					],
+					[
+						"gi",
+						"git: init"
+					],
+					[
+						"snippet:bs3-start",
+						"Snippet: bs3-template.starter"
+					],
+					[
+						"snippet:bs3-star",
+						"Snippet: bs3-template.starter"
+					],
+					[
+						"inspa",
+						"Package Control: Install Package"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					]
+				],
+				"width": 615.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/F/my-Sublime-Settings-FilesAndFolders/readMe.txt",
+				"/D/1...TOTAL SOFTWARE COLLECTION/00_NEW SET UP_DONE BY ME/SUBLIME_TEXT_3_EDITOR/my_settings/Package Control.sublime-settings",
+				"/C/Users/SUPROKASH_TPS/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+				"/F/2...j_b_l_project_ZEN_PUPPY/ZEN_DOG_1st_step/ZEN_DOG_0th_step/COSMIC_TRAVEL/@0.cs1/LEARNING_WORKSPACE/learn_0/CLOUD-UPLOAD-LIST.txt",
+				"/F/2...j_b_l_project_ZEN_PUPPY/ZEN_DOG_1st_step/ZEN_DOG_0th_step/COSMIC_TRAVEL/@0.cs1/LEARNING_WORKSPACE/learn_0/notes&errata&others/lynda.com_Course_List.txt",
+				"/F/2...j_b_l_project_ZEN_PUPPY/ZEN_DOG_1st_step/sourceCode/batch/necessary_batch_files/todoList.txt",
+				"/F/2...j_b_l_project_ZEN_PUPPY/ZEN_DOG_1st_step/ZEN_DOG_0th_step/COSMIC_TRAVEL/@0.cs1/LEARNING_WORKSPACE/learn_0/notes&errata&others/pcdownload.in-courses.txt",
+				"/D/1...TOTAL SOFTWARE COLLECTION/00_NEW SET UP_DONE BY ME/SUBLIME_TEXT_3_EDITOR/my_settings/all_packages.txt",
+				"/C/Users/SUPROKASH_TPS/AppData/Roaming/Sublime Text 3/Packages/User/Terminal (Windows).sublime-settings",
+				"/C/Users/SUPROKASH_TPS/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+				"/F/temp/PROTOTYPE-TEST/index.html",
+				"/F/temp/PROTOTYPE-TEST/PROTOTYPE-TEST.sublime-project",
+				"/C/Users/SUPROKASH_TPS/AppData/Roaming/Sublime Text 3/Packages/User/Projects/recent.json",
+				"/C/Users/SUPROKASH_TPS/AppData/Roaming/Sublime Text 3/Packages/User/Projects/library.json",
+				"/F/temp/SASS-LEARNING/SASS-LEARNING.sublime-project",
+				"/F/temp/SASS-LEARNING/app/index.html",
+				"/F/temp/SASS-LEARNING/app/sass/main.scss",
+				"/C/Users/SUPROKASH_TPS/AppData/Roaming/Sublime Text 3/Local/License.sublime_license"
+			],
+			"find":
+			{
+				"height": 43.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"Git​Savvy",
+					"PackageSync",
+					"blue",
+					"green"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 37.0
+			},
+			"input":
+			{
+				"height": 38.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.GitSavvy":
+			{
+				"height": 182.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.show_commit_info":
+			{
+				"height": 182.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-1,-1,-1,-1,716,543,219,1360",
+			"project": "",
+			"replace":
+			{
+				"height": 70.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"i",
+						"index.html"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 625.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 475.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 377.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/F/temp/PROTOTYPE-TEST/PROTOTYPE-TEST.sublime-workspace",
+			"/F/temp/SASS-LEARNING/SASS-LEARNING.sublime-workspace"
+		]
+	}
+}
